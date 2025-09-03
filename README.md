@@ -41,6 +41,7 @@ The national water survey reveals critical statistics and a significant need for
 
 **Overall Status of Water Access & Population Breakdown**:
 The national page includes high-impact statistics and visuals to show the population breakdown by rural vs. urban areas and the distribution of water source types.
+
 ![National Overview - Population and Water Source Distribution](assets/national_overview_population_water_distribution.jpg)
 _This image represents the overall national overview, showing population distribution by rural/urban, and water source types, alongside key metrics like population, improvements, and budget._
 
@@ -172,8 +173,9 @@ Each province has a dedicated page providing localized details, including:
 #### Example Provincial Report (Sokoto):
 **Total Budget**: **$40.15M**.
 **Rural/Urban Spending**: Rural $32M, Urban $8M.
+
 ![Sokoto](assets/sokoto_report.jpg)
-_Report for Sokoto Province
+_Report for Sokoto Province_
 
 **Sokoto Improvements & Budget Allocation**:
 | Aggregated_improvements | Qty | Budget |
@@ -189,24 +191,28 @@ _Report for Sokoto Province
 #### Example Provincial Report (Kilimani):
 **Total Budget**: **$39.25M**.
 **Rural/Urban Spending**: Rural $28M, Urban $11M.
+
 ![Kilimani](assets/kilimani_report.jpg)
 Report for Kilimani Province
 
 #### Example Provincial Report (Akatsi):
 **Total Budget**: **$31.36M**.
 **Rural/Urban Spending**: Rural $28M, Urban $4M.
+
 ![Akatsi](assets/akatsi_report.jpg)
 _Report for Akatsi Province
 
 #### Example Provincial Report (Amanzi):
 **Total Budget**: **$13.43M**.
 **Rural/Urban Spending**: Rural $7M, Urban $7M.
+
 ![Amanzi Rural](assets/amanzi_report.jpg)
 _Report for Amanzi Province
 
 #### Example Provincial Report (Hawassa):
 **Total Budget**: **$22.55M**.
 **Rural/Urban Spending**: Rural $18M, Urban $5M.
+
 ![Hawassa](assets/hawassa_report.jpg)
 _Report for Hawassa Province
 
