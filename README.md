@@ -1,5 +1,5 @@
 
-# National Water Survey Results & Improvement Project
+# Maji Ndogo Water Initiative: National Access Status & Improvement Plan
 
 ## Overview
 This project focuses on analyzing and visualizing water access data in Maji Ndogo to support decision-makers in addressing the national water crisis. The goal is to provide clear, actionable insights into water access challenges, necessary upgrades, and budget allocations at both national and provincial levels. The report aims to facilitate data-driven decisions to solve the water crisis and improve the lives of people in Maji Ndogo.
