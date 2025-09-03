@@ -1,5 +1,4 @@
 
-
 # National Water Survey Results & Improvement Project
 
 ## Overview
@@ -42,7 +41,7 @@ The national water survey reveals critical statistics and a significant need for
 
 **Overall Status of Water Access & Population Breakdown**:
 The national page includes high-impact statistics and visuals to show the population breakdown by rural vs. urban areas and the distribution of water source types.
-![National Overview - Population and Water Source Distribution](assets/national_overview_population_water_distribution.png)
+![National Overview - Population and Water Source Distribution](assets/national_overview_population_water_distribution.jpg)
 _This image represents the overall national overview, showing population distribution by rural/urban, and water source types, alongside key metrics like population, improvements, and budget._
 
 **What Needs to Be Done - Top 5 Improvement Types (National)**:
@@ -65,11 +64,6 @@ The national page also provides a summary of improvements and budget allocation 
 | Akatsi | 5,993,306 | 4,963 | $31,355,075 |
 | Hawassa | 3,843,810 | 4,384 | $22,553,325 |
 | Amanzi | 5,431,826 | 3,748 | $13,428,275 |
-
-**National Budget Allocation by Province**:
-This visual shows the percentage of the total budget allocated to each province.
-![National Budget Allocation by Province](assets/national_budget_allocation.png)
-_This image displays a visual representation of how the total budget of $147M is distributed among the provinces, with Kilimani receiving $39M, Sokoto $40M, Akatsi $31M, Hawassa $23M, and Amanzi $13M._
 
 ## Methodology and Report Creation
 
@@ -164,8 +158,6 @@ The report is designed with a national overview page and individual provincial p
     *   Total budget breakdown nationally and per province.
     *   Breakdown of costs by rural/urban and source type.
     *   **Dynamic Budget Tables**: Bookmarks were implemented to toggle between a budget table broken down by province and one broken down by improvement type, using interactive buttons.
-    ![National Budget Tables Toggle](assets/national_budget_tables_toggle.png)
-    _This image illustrates the use of bookmarks and buttons to toggle between a table showing budget breakdown by province and a table showing budget breakdown by improvement type._
 *   **Slicers and Map**: A province slicer and a map visual allow for filtering data and highlighting selected provinces geographically.
 
 **Provincial Pages (e.g., Sokoto, Kilimani, Akatsi, Hawassa, Amanzi)**:
@@ -180,8 +172,8 @@ Each province has a dedicated page providing localized details, including:
 #### Example Provincial Report (Sokoto):
 **Total Budget**: **$40.15M**.
 **Rural/Urban Spending**: Rural $32M, Urban $8M.
-![Sokoto Rural/Urban Spending](assets/sokoto_rural_urban_spending.png)
-_This image shows the rural/urban spending split for Sokoto, with 80% allocated to rural areas and 20% to urban areas._
+![Sokoto](assets/sokoto_report.jpg)
+_Report for Sokoto Province
 
 **Sokoto Improvements & Budget Allocation**:
 | Aggregated_improvements | Qty | Budget |
@@ -193,124 +185,30 @@ _This image shows the rural/urban spending split for Sokoto, with 80% allocated 
 | Repair infrastructure | 842 | $381,675 |
 | **Total** | **5603** | **$40,151,475** |
 
-![Sokoto Top Improvements](assets/sokoto_top_improvements.png)
-_This image shows a bar chart of the top improvements in Sokoto by quantity._
-
-**Sokoto Town-level Breakdown**:
-| town_name | Population | Count of improvement | Budget | cost/citizen |
-| :-------- | :--------- | :------------------- | :----- | :----------- |
-| Rural | 3989718 | 3852 | $32,075,025 | $8.04 |
-| Ilanga | 420790 | 415 | $1,768,950 | $4.20 |
-| Majengo | 338162 | 332 | $1,555,550 | $4.60 |
-| Kofi | 295438 | 278 | $1,394,350 | $4.72 |
-| Bahari | 259578 | 254 | $1,204,700 | $4.64 |
-| Marang | 256826 | 265 | $1,183,900 | $4.61 |
-| Cheche | 213922 | 207 | $969,000 | $4.53 |
-| **Total** | **5774434** | **5603** | **$40,151,475** | **$6.95** |
 
 #### Example Provincial Report (Kilimani):
 **Total Budget**: **$39.25M**.
 **Rural/Urban Spending**: Rural $28M, Urban $11M.
-![Kilimani Rural/Urban Spending](assets/kilimani_rural_urban_spending.png)
-_This image shows the rural/urban spending split for Kilimani._
-
-**Kilimani Improvements & Budget Allocation**:
-| Aggregated_improvements | Qty | Budget |
-| :---------------------- | :-- | :----- |
-| Drill well | 791 | $8,908,000 |
-| Install public tap(s) | 1007 | $11,775,000 |
-| Install RO filter | 1879 | $10,380,300 |
-| Install UV and RO filter | 1852 | $7,680,000 |
-| Repair infrastructure | 1171 | $505,925 |
-| **Total** | **6700** | **$39,249,225** |
-
-![Kilimani Top Improvements](assets/kilimani_top_improvements.png)
-_This image shows a bar chart of the top improvements in Kilimani by quantity._
+![Kilimani](assets/kilimani_report.jpg)
+Report for Kilimani Province
 
 #### Example Provincial Report (Akatsi):
 **Total Budget**: **$31.36M**.
 **Rural/Urban Spending**: Rural $28M, Urban $4M.
-![Akatsi Rural/Urban Spending](assets/akatsi_rural_urban_spending.png)
-_This image shows the rural/urban spending split for Akatsi._
-
-**Akatsi Improvements & Budget Allocation**:
-| Aggregated_improvements | Qty | Budget |
-| :---------------------- | :-- | :----- |
-| Drill well | 411 | $5,070,250 |
-| Install public tap(s) | 883 | $10,916,000 |
-| Install RO filter | 2056 | $12,173,700 |
-| Install UV and RO filter | 703 | $2,820,800 |
-| Repair infrastructure | 910 | $374,325 |
-| **Total** | **4963** | **$31,355,075** |
-
-![Akatsi Top Improvements](assets/akatsi_top_improvements.png)
-_This image shows a bar chart of the top improvements in Akatsi by quantity._
+![Akatsi](assets/akatsi_report.jpg)
+_Report for Akatsi Province
 
 #### Example Provincial Report (Amanzi):
 **Total Budget**: **$13.43M**.
 **Rural/Urban Spending**: Rural $7M, Urban $7M.
-![Amanzi Rural/Urban Spending](assets/amanzi_rural_urban_spending.png)
-_This image shows the rural/urban spending split for Amanzi._
-
-**Amanzi Improvements & Budget Allocation**:
-| Aggregated_improvements | Qty | Budget |
-| :---------------------- | :-- | :----- |
-| Drill well | 258 | $2,592,500 |
-| Install public tap(s) | 622 | $5,900,000 |
-| Install RO filter | 523 | $2,946,300 |
-| Install UV and RO filter | 297 | $1,102,400 |
-| Repair infrastructure | 2048 | $887,075 |
-| **Total** | **3748** | **$13,428,275** |
-
-![Amanzi Top Improvements](assets/amanzi_top_improvements.png)
-_This image shows a bar chart of the top improvements in Amanzi by quantity._
+![Amanzi Rural](assets/amanzi_report.jpg)
+_Report for Amanzi Province
 
 #### Example Provincial Report (Hawassa):
 **Total Budget**: **$22.55M**.
 **Rural/Urban Spending**: Rural $18M, Urban $5M.
-![Hawassa Rural/Urban Spending](assets/hawassa_rural_urban_spending.png)
-_This image shows the rural/urban spending split for Hawassa._
-
-**Hawassa Improvements & Budget Allocation**:
-| Aggregated_improvements | Qty | Budget |
-| :---------------------- | :-- | :----- |
-| Install UV and RO filter | 1440 | $6,036,800 |
-| Install RO filter | 1334 | $7,398,300 |
-| Repair infrastructure | 885 | $405,475 |
-| Install public tap(s) | 515 | $6,218,000 |
-| Drill well | 210 | $2,494,750 |
-| **Total** | **4384** | **$22,553,325** |
-
-![Hawassa Top Improvements](assets/hawassa_top_improvements.png)
-_This image shows a bar chart of the top improvements in Hawassa by quantity._
+![Hawassa](assets/hawassa_report.jpg)
+_Report for Hawassa Province
 
 ## Impact
-This data-driven report aims to empower President Naledi and provincial leaders to make informed decisions on how to allocate resources effectively to solve Maji Ndogo's water crisis. By visualizing the costs and the expected impact on water access, the project provides a crucial tool for guiding teams on the ground and making data-driven decisions. The report is seen as a living document, subject to iteration and improvement over time to better serve user needs.
-
-## Repository Structure (Example)
-```
-/
-├── README.md
-├── Maji Ndogo Water Survey Report.pbix  (Power BI Desktop file)
-├── Data/
-│   ├── water_source.csv
-│   ├── well_pollution.csv
-│   ├── visits.csv
-│   ├── infrastructure_cost.csv
-│   └── project_progress.csv
-└── Assets/
-    ├── Buttons.zip (Images for interactive buttons)
-    ├── national_overview_population_water_distribution.png
-    ├── national_budget_allocation.png
-    ├── national_budget_tables_toggle.png
-    ├── sokoto_rural_urban_spending.png
-    ├── sokoto_top_improvements.png
-    ├── kilimani_rural_urban_spending.png
-    ├── kilimani_top_improvements.png
-    ├── akatsi_rural_urban_spending.png
-    ├── akatsi_top_improvements.png
-    ├── amanzi_rural_urban_spending.png
-    ├── amanzi_top_improvements.png
-    ├── hawassa_rural_urban_spending.png
-    └── hawassa_top_improvements.png
-```
+This data-driven report aims to empower President Naledi and provincial leaders to make informed decisions on how to allocate resources effectively to solve Maji Ndogo's water crisis. By visualizing the costs and the expected impact on water access, the project provides a crucial tool for guiding teams on the ground and making data-driven decisions.
