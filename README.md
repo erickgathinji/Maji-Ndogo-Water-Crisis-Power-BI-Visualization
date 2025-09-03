@@ -214,7 +214,7 @@ _Report for Amanzi Province_
 **Rural/Urban Spending**: Rural $18M, Urban $5M.
 
 ![Hawassa](assets/hawassa_report.jpg)
-_Report for Hawassa Province
+_Report for Hawassa Province_
 
 ## Impact
 This data-driven report aims to empower President Naledi and provincial leaders to make informed decisions on how to allocate resources effectively to solve Maji Ndogo's water crisis. By visualizing the costs and the expected impact on water access, the project provides a crucial tool for guiding teams on the ground and making data-driven decisions.
