@@ -193,21 +193,21 @@ _Report for Sokoto Province_
 **Rural/Urban Spending**: Rural $28M, Urban $11M.
 
 ![Kilimani](assets/kilimani_report.jpg)
-Report for Kilimani Province
+_Report for Kilimani Province_
 
 #### Example Provincial Report (Akatsi):
 **Total Budget**: **$31.36M**.
 **Rural/Urban Spending**: Rural $28M, Urban $4M.
 
 ![Akatsi](assets/akatsi_report.jpg)
-_Report for Akatsi Province
+_Report for Akatsi Province_
 
 #### Example Provincial Report (Amanzi):
 **Total Budget**: **$13.43M**.
 **Rural/Urban Spending**: Rural $7M, Urban $7M.
 
 ![Amanzi Rural](assets/amanzi_report.jpg)
-_Report for Amanzi Province
+_Report for Amanzi Province_
 
 #### Example Provincial Report (Hawassa):
 **Total Budget**: **$22.55M**.
